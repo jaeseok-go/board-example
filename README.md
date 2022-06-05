@@ -29,3 +29,7 @@
   - 특정 게시물에 댓글 조회 가능
   - 댓글 좋아요 기능
   - 댓글 추천 기능
+
+## 데이터베이스 설계
+<img width="1320" alt="image" src="https://user-images.githubusercontent.com/66155356/172039840-71a73d34-05e5-439a-a622-1b843db9c6bf.png">
+
